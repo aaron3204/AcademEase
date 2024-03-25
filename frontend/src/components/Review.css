@@ -1,0 +1,58 @@
+.review-form-container {
+    width: 60%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 4px solid #755151;
+    border-radius: 20px;
+  }
+  .rrr{
+    color: #78a583;
+  }
+  .review-success-message {
+    background-color: #2E3267;
+    border: 1px solid #007bff;
+    color: #155724;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 20px;
+    height: 35%;
+  }
+  .comment {
+    color: #fff;
+  }
+  .comment:placeholder-shown{
+    color: #ccc;
+  }
+  .form-group {
+    color: #fff;
+    margin-bottom: 15px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input[type="number"],
+  textarea {
+    background-color: #2E3267;
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .submit-button {
+    background-color: #6c63ff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: 300;
+  }
+  
+  .submit-button:hover {
+    background-color: #0056b3;
+  }
+  
+  
