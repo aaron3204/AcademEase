@@ -1,7 +1,6 @@
 import React from 'react'
 import Lottie from 'lottie-react'
 import animation from "../assets/Animation - 1710008117399.json"
-import cse from '../assets/computer-science-word-cloud-concept-grey-background-90729606.webp'
 export default function Coe() {
   return (
     <div>   <section class=" branch__des">
